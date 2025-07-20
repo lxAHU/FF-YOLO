@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1650684245_28-vsegda-pomnim-com-p-goryashchii-les-vid-sverkhu-foto-32_jpg.rf.69c59c9df5b991234f898b3cd6029093.jpg</filename>
+	<path>1650684245_28-vsegda-pomnim-com-p-goryashchii-les-vid-sverkhu-foto-32_jpg.rf.69c59c9df5b991234f898b3cd6029093.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>536</xmax>
+			<ymin>1</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>new_fire_55_jpg.rf.8e2bdd5de51522251edc2bd0ea781507.jpg</filename>
+	<path>new_fire_55_jpg.rf.8e2bdd5de51522251edc2bd0ea781507.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>329</xmax>
+			<ymin>189</ymin>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

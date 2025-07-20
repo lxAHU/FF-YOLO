@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ezgif-frame-058_jpg.rf.56312e8deb5434343a8877fa3479fe46.jpg</filename>
+	<path>ezgif-frame-058_jpg.rf.56312e8deb5434343a8877fa3479fe46.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>564</xmax>
+			<ymin>378</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

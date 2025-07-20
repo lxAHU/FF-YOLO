@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>wildfire_1818_jpg.rf.e0d7b6247f7a6664ea2b39481370856c.jpg</filename>
+	<path>G:\个人待搜集标注\火灾\JPEGImages\wildfire_1818_jpg.rf.e0d7b6247f7a6664ea2b39481370856c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>1</ymin>
+			<xmax>640</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

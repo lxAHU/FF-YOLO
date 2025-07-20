@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>wildfire_1429_jpg.rf.db68b049cf306564f97a8e5f812f4578.jpg</filename>
+	<path>wildfire_1429_jpg.rf.db68b049cf306564f97a8e5f812f4578.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>416</xmax>
+			<ymin>92</ymin>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

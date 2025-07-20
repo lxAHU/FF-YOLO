@@ -1,0 +1,670 @@
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1000.jpg 544,361,713,569,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1015.jpg 563,423,745,663,0 752,464,878,629,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1035.jpg 545,371,686,570,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1037.jpg 40,197,420,442,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1045.jpg 364,120,517,399,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1055.jpg 573,440,727,633,0 783,404,882,568,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1058.jpg 565,353,716,531,0 778,337,875,462,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/106.jpg 2,142,438,553,1 59,466,366,640,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1061.jpg 365,357,584,479,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/107.jpg 502,240,527,298,0 490,335,518,394,0 428,213,457,256,0 299,221,321,320,0 231,370,276,409,0 54,286,79,429,0 116,378,129,426,0 1,1,289,437,1 352,1,640,360,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1071.jpg 293,253,387,477,0 387,194,466,384,0 480,145,558,227,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1088.jpg 415,378,530,543,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1112.jpg 416,389,527,539,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1123.jpg 423,373,517,534,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1131.jpg 555,166,710,380,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/114.jpg 1,1,640,325,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1153.jpg 405,95,575,336,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1159.jpg 356,388,578,477,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1164.jpg 681,325,757,472,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1170.jpg 251,112,864,574,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1189.jpg 334,249,453,457,0 476,104,674,460,0 722,249,881,468,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1194.jpg 578,396,864,642,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1218.jpg 518,383,658,573,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1226.jpg 304,4,467,612,0 587,229,668,464,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1250.jpg 369,191,476,387,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1267.jpg 380,98,595,377,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/127.jpg 2,173,416,406,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1274.jpg 630,298,881,357,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1290.jpg 343,104,485,395,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1310.jpg 505,180,711,451,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1314.jpg 300,63,464,606,0 575,210,665,471,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1317.jpg 552,39,681,320,0 643,181,796,372,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/132.jpg 16,11,485,550,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/133.jpg 52,20,486,631,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1333.jpg 459,2,741,419,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1342.jpg 320,259,441,456,0 475,189,633,468,0 712,273,864,486,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1345.jpg 482,68,648,488,0 773,304,882,483,0 339,287,461,430,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1355.jpg 350,369,526,567,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1367.jpg 483,374,599,552,0 680,352,770,512,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1393.jpg 309,164,508,400,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1398.jpg 363,139,579,377,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1399.jpg 315,4,467,618,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1407.jpg 352,259,452,444,0 481,125,698,488,0 764,284,897,485,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1414.jpg 314,122,492,297,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1415.jpg 536,173,725,396,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1419.jpg 231,349,416,565,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/142.jpg 1,17,480,424,1 256,455,292,475,0 294,426,325,461,0 235,458,249,469,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1423.jpg 517,213,701,464,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1438.jpg 251,160,857,561,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1439.jpg 534,1,731,409,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1441.jpg 308,14,473,609,0 570,223,690,483,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1451.jpg 426,77,679,236,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1467.jpg 494,1,751,384,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1471.jpg 561,356,837,633,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/148.jpg 337,360,421,424,1 253,385,279,431,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1488.jpg 419,365,521,540,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1533.jpg 412,370,529,545,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1552.jpg 305,69,475,297,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1565.jpg 460,122,743,554,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1584.jpg 487,178,742,551,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1586.jpg 863,282,954,439,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1613.jpg 325,219,456,436,0 499,123,689,468,0 728,284,866,468,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/162.jpg 403,81,499,193,0 383,145,409,171,1 195,101,367,263,0 371,183,447,247,1 307,271,351,303,1 207,265,283,317,1 199,319,235,331,1 273,323,301,339,1 305,329,341,345,1 441,345,473,355,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1636.jpg 101,179,332,547,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1652.jpg 326,93,471,614,0 567,191,682,472,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1656.jpg 296,80,476,372,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1669.jpg 447,87,653,480,0 719,271,894,483,0 316,275,480,439,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1672.jpg 1,167,374,426,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1682.jpg 380,89,526,324,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1686.jpg 290,106,583,372,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1694.jpg 332,66,473,619,0 575,194,676,466,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/171.jpg 7,119,567,529,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1734.jpg 552,338,716,585,0 599,471,763,660,0 705,413,855,597,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1735.jpg 311,120,437,454,0 499,93,666,460,0 748,269,880,478,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1754.jpg 400,100,620,263,0 639,160,730,356,0 468,355,550,431,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1798.jpg 418,365,526,539,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/180.jpg 205,159,281,307,1 265,289,335,323,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1801.jpg 389,174,620,373,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1805.jpg 538,116,767,379,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1828.jpg 367,58,538,403,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1838.jpg 363,319,564,480,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/184.jpg 173,295,353,371,1 361,301,581,379,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1849.jpg 717,359,922,721,0 261,567,562,719,0 27,88,331,286,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1854.jpg 524,197,773,434,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1865.jpg 291,267,398,489,0 396,217,471,404,0 482,136,571,248,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1885.jpg 11,70,375,398,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1916.jpg 585,483,733,660,0 753,409,889,607,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1925.jpg 772,403,874,588,0 588,467,758,652,0 429,434,556,550,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1957.jpg 858,284,954,445,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1959.jpg 293,5,468,622,0 582,243,679,472,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1970.jpg 484,274,719,498,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1972.jpg 511,119,688,492,0 756,285,898,495,0 331,270,460,442,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1975.jpg 297,277,397,491,0 372,246,466,414,0 475,126,580,251,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/1982.jpg 20,142,425,423,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2024.jpg 90,232,251,535,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2033.jpg 400,77,523,339,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2038.jpg 504,193,656,519,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2048.jpg 551,1,752,386,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2049.jpg 509,1,722,268,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/205.jpg 361,147,391,173,0 121,143,233,247,0 59,153,75,193,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2064.jpg 857,303,952,454,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2067.jpg 595,253,807,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2075.jpg 304,156,441,433,0 484,98,657,450,0 736,296,869,459,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2090.jpg 355,1,529,352,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2106.jpg 518,183,745,494,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2112.jpg 547,184,702,426,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2115.jpg 851,288,946,449,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2121.jpg 311,126,419,430,0 484,133,651,465,0 734,288,861,472,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2131.jpg 425,393,532,551,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2138.jpg 357,184,679,459,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2139.jpg 97,269,280,533,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2155.jpg 834,325,941,455,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2157.jpg 371,230,661,456,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2159.jpg 538,7,711,284,0 630,229,805,374,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2160.jpg 299,38,470,621,0 570,236,684,462,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2199.jpg 287,134,425,451,0 499,241,650,466,0 724,267,854,474,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/22.jpg 726,37,901,270,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/220.jpg 364,165,459,375,0 1,249,44,394,0 539,287,635,391,0 175,297,238,422,0 175,387,627,493,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2217.jpg 509,177,651,495,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2218.jpg 291,5,469,613,0 578,199,675,454,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2225.jpg 320,5,559,352,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2241.jpg 537,8,725,630,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/225.jpg 271,243,325,353,0 259,341,325,411,1 227,373,243,405,1 123,359,183,419,0 337,373,367,409,1 195,383,225,419,1 15,363,131,443,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2256.jpg 293,285,391,500,0 377,242,447,422,0 471,164,583,263,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2274.jpg 398,219,482,366,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2288.jpg 462,84,668,502,0 776,311,885,496,0 345,297,470,427,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2312.jpg 450,179,589,380,0 518,342,595,481,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2313.jpg 276,154,598,478,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2317.jpg 421,385,532,539,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2326.jpg 125,338,259,540,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2327.jpg 354,294,453,427,0 455,131,676,493,0 748,272,904,489,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2336.jpg 906,309,1142,465,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2345.jpg 309,1,542,317,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2359.jpg 338,291,462,433,0 471,86,691,487,0 721,272,898,481,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2376.jpg 814,308,922,455,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2385.jpg 413,371,549,546,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2391.jpg 561,224,795,320,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2395.jpg 417,127,491,323,0 507,217,564,364,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2408.jpg 220,198,777,565,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2410.jpg 506,71,655,399,0 500,295,628,500,0 391,297,620,390,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2412.jpg 526,38,728,638,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2427.jpg 296,8,552,337,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2441.jpg 411,214,461,382,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2454.jpg 492,23,648,489,0 757,257,879,471,0 326,297,464,414,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2486.jpg 302,59,469,603,0 584,269,672,436,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/249.jpg 67,123,367,327,1 335,327,367,363,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2490.jpg 802,175,982,716,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2491.jpg 418,331,529,524,0 574,358,661,504,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2501.jpg 395,180,478,388,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/251.jpg 375,251,571,321,0 409,399,429,423,0 455,383,503,451,0 535,413,587,439,0 413,429,443,457,0 375,435,393,461,0 303,79,620,259,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2517.jpg 252,250,798,567,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2527.jpg 552,1,712,446,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2539.jpg 802,196,1025,721,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2549.jpg 904,305,1145,464,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2551.jpg 588,215,790,319,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2565.jpg 269,105,429,462,0 457,21,693,477,0 730,264,882,477,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2585.jpg 576,14,804,312,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2588.jpg 503,119,781,378,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2610.jpg 263,93,431,442,0 443,84,682,469,0 695,257,888,468,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2618.jpg 696,220,810,442,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2619.jpg 468,216,760,483,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2623.jpg 571,1,786,303,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2649.jpg 411,142,517,329,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/265.jpg 237,76,503,357,1 269,305,477,461,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2680.jpg 648,185,865,432,0 1,255,121,420,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2683.jpg 684,233,816,442,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2684.jpg 836,329,932,471,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2700.jpg 580,218,799,319,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2712.jpg 561,143,781,365,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2717.jpg 652,164,858,399,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2730.jpg 579,1,758,312,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2734.jpg 17,10,399,373,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2749.jpg 291,289,390,503,0 392,212,465,428,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2750.jpg 353,374,578,474,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2756.jpg 572,31,762,339,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2759.jpg 424,105,641,399,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2766.jpg 242,75,438,450,0 455,1,719,480,0 727,128,941,470,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2769.jpg 688,220,825,443,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2773.jpg 666,223,830,437,0 505,146,651,320,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2791.jpg 410,119,528,330,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2804.jpg 603,14,790,323,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2810.jpg 720,1,937,719,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2816.jpg 654,206,880,461,0 1,199,151,429,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2829.jpg 580,227,808,321,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2852.jpg 523,207,745,491,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2875.jpg 277,69,473,604,0 584,257,677,456,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2879.jpg 516,131,633,314,0 664,197,813,438,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2897.jpg 11,101,381,362,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2899.jpg 414,158,517,321,0 527,239,688,431,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2901.jpg 397,337,523,495,0 565,365,637,473,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2912.jpg 589,224,793,325,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2919.jpg 286,226,434,459,0 479,38,713,492,0 726,282,888,478,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2924.jpg 674,171,856,423,0 1,233,146,443,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2927.jpg 400,185,461,382,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2941.jpg 528,1,721,423,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2953.jpg 840,354,936,500,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2955.jpg 254,178,419,457,0 510,5,688,487,0 728,260,903,489,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2963.jpg 599,125,783,387,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2964.jpg 383,115,569,370,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/297.jpg 199,263,309,395,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2971.jpg 26,2,375,366,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2977.jpg 280,2,874,555,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/2992.jpg 645,175,859,431,0 1,160,142,399,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3005.jpg 471,224,651,432,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3012.jpg 405,161,546,337,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3026.jpg 4,69,374,365,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3049.jpg 486,179,652,441,0 527,370,649,550,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3057.jpg 481,325,625,457,0 655,96,774,439,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3059.jpg 373,171,475,384,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3076.jpg 430,390,530,530,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3096.jpg 217,129,556,557,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/31.jpg 477,1,800,534,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3149.jpg 525,201,769,457,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3165.jpg 282,286,394,519,0 392,230,475,429,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3188.jpg 535,196,760,456,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3201.jpg 477,155,658,450,0 525,378,651,567,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3213.jpg 331,172,597,382,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3234.jpg 493,264,776,454,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3241.jpg 791,344,898,485,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3248.jpg 423,401,530,536,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3251.jpg 335,175,622,369,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3265.jpg 475,183,690,437,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3274.jpg 525,20,700,307,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/329.jpg 11,147,113,363,0 179,233,253,391,0 411,147,531,425,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3290.jpg 338,179,626,360,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3295.jpg 740,335,933,578,0 538,253,719,620,0 383,364,538,650,0 108,181,372,608,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3318.jpg 636,17,822,360,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3329.jpg 542,396,649,543,0 696,513,825,633,0 567,552,727,670,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/333.jpg 3,132,450,373,1 444,238,489,319,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3341.jpg 306,75,472,624,0 596,270,681,456,0 522,363,585,502,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3346.jpg 360,4,757,525,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/335.jpg 313,151,383,269,0 268,2,386,125,1 257,296,270,334,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3350.jpg 524,241,736,325,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3354.jpg 329,135,441,460,0 506,156,653,489,0 736,226,876,489,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/338.jpg 582,363,625,443,0 282,341,375,411,0 319,155,641,427,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3402.jpg 323,95,592,379,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3424.jpg 301,71,473,609,0 613,267,674,447,0 524,355,582,500,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3433.jpg 303,114,596,370,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3445.jpg 661,258,838,543,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3465.jpg 344,103,600,278,0 1185,310,1281,539,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3496.jpg 385,41,823,329,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3507.jpg 531,259,732,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/351.jpg 175,251,229,301,0 375,283,511,369,0 577,395,607,421,0 130,119,641,383,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3512.jpg 590,58,831,387,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3518.jpg 810,325,921,454,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3535.jpg 343,118,606,375,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3538.jpg 530,176,726,426,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3565.jpg 622,95,814,350,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3574.jpg 763,302,886,478,0 494,122,682,471,0 306,170,436,430,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3575.jpg 379,75,635,294,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3579.jpg 5,19,377,366,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3581.jpg 500,61,683,459,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3596.jpg 260,116,555,648,0 545,383,677,650,0 680,410,899,564,0 143,435,281,600,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3605.jpg 505,141,678,471,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3608.jpg 527,261,735,339,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3621.jpg 652,7,774,441,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3653.jpg 461,381,684,552,0 524,546,736,694,0 685,527,831,654,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3655.jpg 638,48,790,407,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3666.jpg 519,137,684,481,0 764,258,891,486,0 339,272,448,434,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3670.jpg 393,194,479,380,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3709.jpg 599,90,783,410,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3720.jpg 366,1,776,510,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3723.jpg 632,147,832,359,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3739.jpg 343,246,482,430,0 479,51,657,460,0 742,213,878,447,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/374.jpg 89,369,139,411,0 257,283,277,307,0 115,323,135,365,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3740.jpg 523,55,661,467,0 408,278,515,357,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3771.jpg 526,265,746,344,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3790.jpg 385,155,613,387,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3793.jpg 523,265,845,479,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3807.jpg 527,272,729,342,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3834.jpg 848,350,969,457,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/384.jpg 62,3,389,640,0 1,1,640,640,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3868.jpg 504,144,651,481,0 776,291,881,489,0 361,288,458,439,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3870.jpg 386,86,627,320,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3879.jpg 427,392,526,563,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3887.jpg 379,181,669,377,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3898.jpg 633,116,840,369,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3902.jpg 355,1,697,482,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3905.jpg 521,265,751,344,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3906.jpg 343,301,453,433,0 503,119,650,485,0 752,258,885,481,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3923.jpg 381,175,653,372,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3937.jpg 848,342,951,463,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3940.jpg 437,402,618,555,0 747,503,861,646,0 578,480,757,600,0 563,519,740,663,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3945.jpg 373,165,660,385,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3955.jpg 511,340,616,543,0 656,386,740,513,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3968.jpg 341,286,465,445,0 484,104,677,477,0 745,284,884,486,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3976.jpg 323,276,471,435,0 472,105,671,481,0 758,302,878,486,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/3994.jpg 519,155,802,432,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4014.jpg 92,5,389,313,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4023.jpg 425,370,527,560,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4028.jpg 464,366,672,561,0 669,474,801,669,0 570,555,684,672,0 813,558,900,670,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4029.jpg 397,154,666,388,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4032.jpg 837,341,946,467,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4037.jpg 487,368,616,552,0 668,397,751,527,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4042.jpg 674,77,840,362,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4050.jpg 342,1,671,437,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4055.jpg 373,121,670,375,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4073.jpg 315,1,685,444,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4076.jpg 497,158,776,390,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4102.jpg 470,396,669,550,0 754,531,897,654,0 600,512,759,687,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4105.jpg 723,128,901,417,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4108.jpg 528,111,647,463,0 404,212,528,352,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4116.jpg 388,279,473,381,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4117.jpg 331,156,469,446,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4119.jpg 838,355,948,469,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/413.jpg 85,2,265,47,0 51,71,181,201,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4131.jpg 728,160,897,399,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4137.jpg 319,11,472,604,0 587,252,674,435,0 538,407,578,487,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4139.jpg 507,254,737,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4141.jpg 502,376,733,681,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4173.jpg 466,137,635,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4181.jpg 167,5,395,320,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4183.jpg 501,113,740,348,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4200.jpg 395,212,470,375,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4207.jpg 318,1,727,429,0 831,4,1033,187,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4209.jpg 396,149,696,379,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4250.jpg 412,373,545,562,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4278.jpg 534,263,663,459,0 604,180,764,306,0 674,279,785,405,0 452,374,545,474,0 188,167,314,304,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4288.jpg 468,358,621,534,0 666,467,815,615,0 573,495,713,677,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4295.jpg 401,84,667,362,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/43.jpg 1,63,127,418,0 653,301,800,418,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4312.jpg 520,128,660,354,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4315.jpg 492,111,655,495,0 739,240,879,478,0 339,279,425,454,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4319.jpg 160,7,383,329,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4324.jpg 508,83,681,582,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4328.jpg 517,251,752,351,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/433.jpg 687,175,898,302,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4335.jpg 1,247,136,654,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4338.jpg 317,29,471,603,0 596,269,672,444,0 538,377,575,511,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4339.jpg 154,1,374,333,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4344.jpg 338,230,475,441,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4363.jpg 302,50,470,609,0 587,261,674,436,0 533,357,576,516,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/437.jpg 331,43,508,378,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4372.jpg 295,35,476,613,0 587,248,677,430,0 530,357,575,516,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4374.jpg 1,226,133,668,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4378.jpg 503,82,629,314,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4384.jpg 695,4,963,351,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4391.jpg 661,310,809,538,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4396.jpg 515,268,751,339,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4415.jpg 175,4,363,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4421.jpg 565,202,696,488,0 428,278,559,377,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4435.jpg 506,74,662,483,0 330,284,444,460,0 722,239,884,460,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4452.jpg 536,101,642,338,0 670,254,809,438,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4453.jpg 417,342,569,451,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4473.jpg 175,8,383,335,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4483.jpg 525,252,741,332,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/451.jpg 727,474,821,615,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4511.jpg 846,162,1145,408,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4526.jpg 1,308,133,684,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4538.jpg 633,387,761,610,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4549.jpg 415,299,548,540,0 572,450,782,669,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4556.jpg 199,2,400,333,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4576.jpg 485,67,680,534,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4584.jpg 197,171,314,290,0 530,264,665,465,0 666,271,800,406,0 424,396,544,486,0 559,149,695,255,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4595.jpg 903,170,1162,449,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4599.jpg 426,392,515,560,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4602.jpg 497,200,800,392,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/462.jpg 490,158,659,487,0 778,284,879,468,0 314,298,424,437,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4631.jpg 458,91,636,311,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4633.jpg 272,284,460,465,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4651.jpg 515,222,790,392,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4654.jpg 457,324,543,577,0 548,507,677,705,0 689,540,858,691,0 887,456,983,598,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4664.jpg 605,376,748,606,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4684.jpg 495,91,689,300,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/470.jpg 534,136,715,465,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4707.jpg 318,84,469,603,0 598,270,696,445,0 525,407,572,514,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4721.jpg 379,345,420,405,0 395,260,478,386,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4735.jpg 294,201,423,444,0 438,95,723,487,0 752,299,895,486,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4742.jpg 370,348,418,405,0 400,243,477,382,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4748.jpg 2,296,136,675,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4755.jpg 504,140,682,408,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4758.jpg 303,248,457,462,0 475,137,591,281,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4782.jpg 326,269,429,439,0 471,58,661,487,0 756,278,891,502,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4798.jpg 229,9,432,334,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4806.jpg 330,93,470,599,0 603,261,675,448,0 528,412,571,517,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4824.jpg 567,158,749,303,0 557,290,660,458,0 646,284,770,414,0 440,354,558,466,0 194,162,373,277,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4832.jpg 300,68,468,606,0 600,249,675,433,0 524,393,577,504,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4842.jpg 586,1,880,264,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4843.jpg 535,321,699,440,0 628,404,712,542,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/486.jpg 595,200,766,593,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4866.jpg 514,268,721,337,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4873.jpg 322,41,465,609,0 540,408,579,517,0 606,291,682,436,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4889.jpg 645,471,809,651,0 865,444,983,622,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4896.jpg 432,74,638,324,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4906.jpg 824,299,904,447,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4908.jpg 658,300,806,535,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4909.jpg 528,177,647,348,0 728,293,815,456,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4923.jpg 590,436,694,622,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4929.jpg 533,192,671,357,0 708,300,809,453,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4932.jpg 330,228,442,433,0 501,123,663,495,0 747,282,885,496,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4945.jpg 295,77,471,605,0 598,261,661,420,0 528,412,577,514,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/495.jpg 684,146,936,566,0 465,184,679,615,0 219,332,448,569,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4972.jpg 285,56,471,616,0 591,245,675,427,0 525,399,569,507,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/498.jpg 369,259,454,389,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4982.jpg 321,200,457,436,0 474,53,661,487,0 776,195,894,483,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4983.jpg 622,471,816,670,0 821,432,939,639,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/4990.jpg 233,1,454,324,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/50.jpg 396,273,565,566,0 185,285,369,564,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5000.jpg 568,281,739,445,0 619,429,688,557,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5003.jpg 335,232,463,442,0 483,68,658,483,0 728,236,889,480,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5010.jpg 285,26,470,604,0 596,236,674,441,0 534,385,574,520,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/502.jpg 580,52,818,322,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5024.jpg 955,181,1147,444,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5047.jpg 616,163,701,564,0 500,351,612,452,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5050.jpg 553,323,742,690,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5056.jpg 645,313,785,534,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5072.jpg 517,341,606,509,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5082.jpg 538,186,648,354,0 716,287,840,463,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5121.jpg 174,176,276,311,0 555,133,735,299,0 691,308,827,406,0 569,304,670,468,0 455,377,550,498,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5122.jpg 527,43,671,653,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5124.jpg 349,363,634,477,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5137.jpg 325,391,620,495,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5148.jpg 499,133,647,356,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5152.jpg 491,17,697,659,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5153.jpg 311,1,834,261,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5164.jpg 318,3,837,276,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5178.jpg 335,235,419,397,1 127,327,223,449,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/518.jpg 523,231,686,487,0 414,291,517,355,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5189.jpg 349,151,411,291,0 43,271,187,387,0 185,275,281,409,1 389,291,435,431,1 327,347,371,479,1 181,411,199,479,1 25,509,173,577,0 217,3,355,239,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5214.jpg 289,67,385,441,1 545,151,639,419,1 71,337,143,429,1 209,321,363,487,1 503,341,543,537,1 11,429,65,545,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5219.jpg 6,17,476,477,1 268,401,314,432,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5222.jpg 151,414,202,434,0 459,325,477,346,0 118,150,620,427,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5256.jpg 1,1,641,467,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5280.jpg 277,294,608,536,0 73,205,207,260,0 33,179,68,256,0 2,2,139,282,1 39,408,76,631,1 152,6,331,629,1 334,12,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5282.jpg 518,388,549,412,0 579,430,600,456,0 158,475,199,511,0 171,575,182,596,0 1,2,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5283.jpg 472,516,523,543,0 1,3,641,549,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5288.jpg 423,505,556,590,0 209,458,221,481,0 266,498,316,558,0 326,533,371,567,0 108,364,134,421,0 158,385,188,424,0 17,461,47,502,0 72,436,116,473,0 2,1,537,579,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5292.jpg 324,423,364,473,0 238,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5313.jpg 1,1,444,486,1 424,171,525,273,1 192,387,222,408,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5333.jpg 438,346,521,373,0 229,1,641,368,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5338.jpg 295,383,322,413,0 215,32,466,428,1 326,1,641,358,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5373.jpg 1,167,339,567,1 362,225,641,591,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5375.jpg 153,502,199,534,0 204,516,253,539,0 297,526,404,549,0 164,2,641,530,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5388.jpg 1,86,641,616,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5395.jpg 7,331,229,633,0 237,415,639,575,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5405.jpg 359,251,509,437,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/541.jpg 556,275,695,504,0 764,302,853,482,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5421.jpg 227,77,639,351,0 389,315,495,419,1 19,441,217,545,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5422.jpg 367,228,493,446,0 482,274,641,546,0 412,78,641,410,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5424.jpg 215,125,449,499,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5432.jpg 285,47,379,487,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5438.jpg 293,105,429,537,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5450.jpg 211,129,339,579,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5510.jpg 1,1,641,255,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5516.jpg 1,301,42,332,0 252,371,365,459,0 417,409,519,499,0 280,499,343,553,0 390,584,453,641,0 417,564,460,598,0 537,514,579,565,0 532,621,641,641,0 172,517,224,591,0 270,569,344,641,0 3,1,641,519,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5518.jpg 2,334,529,635,0 325,220,585,493,1 385,119,641,257,1 236,2,501,96,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5521.jpg 170,312,419,628,0 192,103,573,306,0 34,12,566,358,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5529.jpg 301,403,498,582,0 552,395,624,530,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5531.jpg 59,521,232,616,0 5,290,408,559,0 415,455,488,640,0 581,589,641,639,0 598,420,641,523,0 73,39,641,357,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5543.jpg 281,517,332,608,0 617,480,630,501,0 503,581,520,610,0 422,559,457,612,0 361,521,407,586,0 2,1,641,472,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/556.jpg 279,216,388,471,0 389,175,462,380,0 490,107,559,230,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5573.jpg 427,168,463,254,0 516,402,615,519,0 1,269,190,564,0 266,253,399,550,0 365,9,641,477,1 1,4,267,566,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5578.jpg 198,22,351,563,0 356,65,559,615,0 572,65,641,262,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5580.jpg 231,302,460,393,0 3,88,622,422,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5593.jpg 1,246,43,324,0 43,329,145,373,0 170,323,346,545,0 8,7,641,455,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5604.jpg 406,223,570,572,0 52,281,236,503,0 98,1,439,257,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5605.jpg 406,223,570,572,0 52,281,236,503,0 98,1,439,257,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5667.jpg 140,420,248,533,0 427,403,640,551,0 350,499,398,537,0 2,544,136,630,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5674.jpg 189,284,245,350,0 618,501,636,534,0 65,7,641,583,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/568.jpg 686,217,868,318,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5700.jpg 110,203,343,521,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5712.jpg 232,182,641,518,0 47,425,123,498,0 2,1,641,506,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5713.jpg 311,276,641,396,0 122,371,298,485,0 7,495,74,541,0 4,4,641,503,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5716.jpg 285,394,550,609,0 2,1,641,569,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/572.jpg 356,83,610,378,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5720.jpg 11,269,641,459,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5725.jpg 436,434,449,449,0 1,1,641,463,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5732.jpg 436,227,551,443,0 1,72,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5741.jpg 89,237,640,624,0 2,5,641,585,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5742.jpg 198,171,490,366,0 172,4,641,310,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5764.jpg 125,187,541,360,0 1,1,641,358,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5777.jpg 216,444,273,507,0 285,492,626,565,0 136,51,341,481,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/58.jpg 1,1,640,629,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5805.jpg 258,166,425,340,0 413,344,451,385,0 159,338,193,353,0 235,348,282,369,0 1,2,641,478,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5806.jpg 33,103,641,598,0 434,2,641,427,1 1,1,197,514,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5818.jpg 402,404,641,579,0 45,279,139,391,0 1,1,641,409,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5828.jpg 224,292,259,375,0 189,355,329,490,0 2,1,641,632,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5831.jpg 48,311,73,369,0 108,385,122,432,0 123,442,139,463,0 279,525,339,639,0 147,208,184,273,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5832.jpg 64,58,641,561,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5845.jpg 328,350,351,447,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5852.jpg 166,374,200,409,0 318,323,333,350,0 359,352,373,371,0 427,384,514,434,0 1,1,641,441,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5862.jpg 97,1,331,633,0 367,453,462,506,0 599,565,625,603,0 602,251,626,290,0 528,119,572,149,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5875.jpg 3,339,439,555,0 2,1,641,489,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5878.jpg 489,184,621,526,0 23,38,175,511,0 6,1,477,503,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5885.jpg 497,378,595,512,0 43,324,461,593,0 191,183,219,292,0 241,94,328,248,0 75,39,618,587,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5891.jpg 153,450,523,553,0 109,4,584,509,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5907.jpg 388,495,426,545,0 391,373,478,477,0 1,3,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5911.jpg 148,496,470,600,0 1,1,641,535,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5917.jpg 6,527,641,639,0 3,307,419,477,0 1,1,640,505,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5919.jpg 377,271,641,591,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5925.jpg 56,279,119,333,0 127,298,527,537,0 537,415,641,518,0 138,137,641,336,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/594.jpg 468,68,664,482,0 752,309,887,484,0 347,291,452,433,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5948.jpg 327,377,354,425,0 4,1,357,384,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5983.jpg 304,132,379,183,0 257,281,299,321,0 249,186,629,404,0 477,399,560,439,0 78,451,453,637,0 312,3,641,433,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/5989.jpg 1,59,364,535,1 56,508,196,616,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6001.jpg 3,147,518,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6009.jpg 286,93,619,324,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6019.jpg 1,4,320,211,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6036.jpg 1,1,372,442,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6041.jpg 353,3,641,534,1 56,1,307,354,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6056.jpg 301,372,368,485,0 4,1,641,620,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6061.jpg 313,217,554,397,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6065.jpg 1,41,639,611,1 291,72,428,238,0 218,256,243,324,0 467,28,483,54,0 583,47,630,76,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/607.jpg 336,27,474,385,0 590,236,670,460,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6077.jpg 128,228,232,353,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6098.jpg 352,334,510,481,1 381,355,441,389,0 447,333,485,354,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6106.jpg 9,168,137,386,0 250,228,280,295,0 11,5,570,374,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6124.jpg 2,40,163,226,1 192,260,212,296,0 590,200,610,229,0 164,1,641,352,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6128.jpg 173,574,181,590,0 1,1,641,599,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6139.jpg 191,2,512,460,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6146.jpg 3,2,532,296,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6147.jpg 434,291,487,394,0 211,309,321,421,0 164,2,641,425,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6164.jpg 90,232,481,382,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6174.jpg 269,203,336,272,0 1,1,641,298,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6191.jpg 136,3,641,505,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6206.jpg 1,39,639,450,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6215.jpg 1,1,352,612,1 415,15,640,532,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6220.jpg 7,10,624,229,1 7,191,310,404,0 489,187,638,261,0 402,231,424,260,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6223.jpg 1,1,449,472,1 76,303,219,452,0 239,226,299,326,0 284,334,315,396,0 369,341,418,436,0 315,248,333,297,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6230.jpg 172,153,213,294,0 254,265,330,395,0 344,472,357,495,0 379,466,391,497,0 291,1,469,530,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6234.jpg 572,456,597,492,0 207,353,264,421,0 277,412,311,477,0 318,447,340,498,0 341,443,399,508,0 1,1,641,467,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6248.jpg 189,2,425,218,1 196,271,271,401,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/625.jpg 754,421,834,575,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6250.jpg 260,57,474,637,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6259.jpg 3,1,332,415,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6265.jpg 78,1,546,641,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6275.jpg 1,1,641,501,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6276.jpg 38,363,83,401,0 301,335,419,403,0 459,362,506,419,0 548,390,599,433,0 7,1,641,396,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6291.jpg 156,128,175,151,0 403,109,491,209,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6293.jpg 35,332,307,470,0 301,289,641,457,0 1,1,641,323,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6296.jpg 329,210,380,384,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6317.jpg 2,573,43,641,0 91,527,182,608,0 197,434,241,480,0 302,417,357,510,0 382,311,502,460,0 557,72,633,327,0 2,2,576,526,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6330.jpg 12,409,260,641,0 413,433,641,641,0 358,1,641,405,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/634.jpg 440,3,698,316,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6349.jpg 296,187,490,455,0 485,373,555,446,0 466,461,539,546,0 329,1,641,373,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6353.jpg 307,519,317,536,0 130,1,641,521,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6366.jpg 166,195,269,318,0 7,375,470,439,0 1,1,306,353,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/637.jpg 704,79,929,329,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6371.jpg 292,420,328,448,0 480,508,536,552,0 584,562,626,589,0 1,3,641,586,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6384.jpg 169,257,194,304,0 314,295,387,537,0 446,460,528,597,0 1,3,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6399.jpg 1,411,503,556,0 306,337,331,393,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6417.jpg 1,1,641,641,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6434.jpg 314,26,474,333,1 269,134,358,335,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6445.jpg 492,221,502,234,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6449.jpg 285,68,374,343,1 174,158,273,367,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6451.jpg 318,269,428,357,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6453.jpg 47,1,634,603,1 107,281,145,353,0 148,314,168,352,0 235,389,250,416,0 53,549,66,592,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6461.jpg 34,61,174,445,1 319,4,565,486,1 77,412,121,454,0 339,322,357,390,0 403,201,447,341,0 454,303,475,355,0 467,432,493,457,0 363,276,377,304,0 452,500,499,561,0 543,280,557,308,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6462.jpg 184,9,588,517,1 219,292,330,519,0 185,419,197,437,0 183,507,218,532,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6467.jpg 357,84,482,177,1 351,223,412,259,1 243,253,277,303,1 116,310,177,407,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6482.jpg 157,270,532,639,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6496.jpg 1,1,478,283,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6515.jpg 2,169,535,457,1 455,209,641,275,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6518.jpg 2,1,543,401,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6538.jpg 405,386,413,419,0 186,1,466,462,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6541.jpg 432,458,439,476,0 182,1,483,549,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6564.jpg 206,96,275,336,1 339,111,476,360,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6565.jpg 199,82,338,367,1 352,151,488,366,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6568.jpg 199,1,536,291,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6586.jpg 380,349,447,604,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6588.jpg 339,361,434,597,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6603.jpg 4,14,299,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/661.jpg 758,211,853,357,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6616.jpg 278,607,303,641,0 309,459,373,609,0 401,212,421,246,0 4,2,390,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6638.jpg 357,430,383,463,0 198,394,318,460,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6645.jpg 35,96,143,400,0 489,8,641,401,0 151,6,454,404,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6652.jpg 2,4,638,257,1 153,81,224,137,0 467,194,512,237,0 339,133,414,204,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6655.jpg 89,376,339,569,0 452,410,474,434,0 214,1,484,196,1 435,114,641,616,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6659.jpg 235,306,589,553,0 1,4,639,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6668.jpg 6,371,229,640,0 9,12,635,506,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6670.jpg 275,264,395,413,0 412,276,505,394,0 183,1,432,332,1 105,362,244,464,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6700.jpg 364,171,640,414,1 246,322,368,373,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6719.jpg 216,196,229,218,0 202,265,222,308,0 161,268,300,526,1 217,8,631,266,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6721.jpg 184,69,273,237,0 113,241,176,363,0 159,411,182,458,0 192,358,225,406,0 286,388,330,513,0 342,472,368,518,0 438,381,455,421,0 564,129,641,289,0 131,1,641,464,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6730.jpg 320,44,641,629,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6740.jpg 272,221,334,372,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6759.jpg 1,30,641,633,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/676.jpg 504,212,698,443,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6764.jpg 48,233,124,346,0 273,340,330,441,0 365,342,458,526,0 2,1,641,449,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6770.jpg 306,176,319,205,1 350,88,407,211,1 327,167,349,252,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/678.jpg 747,398,843,562,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6796.jpg 2,114,88,254,0 473,444,641,641,0 177,252,187,271,0 230,315,264,365,0 195,44,483,456,0 2,1,639,529,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6798.jpg 525,127,641,304,1 52,521,206,592,1 211,497,240,570,0 192,179,497,482,0 275,522,293,562,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6806.jpg 1,4,641,488,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6821.jpg 159,8,209,105,0 249,48,303,123,0 291,151,408,313,0 225,182,255,335,0 281,322,327,362,0 493,343,531,395,0 317,586,364,641,0 334,477,354,516,0 375,4,638,641,1 32,379,228,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6823.jpg 387,310,445,578,0 205,68,434,426,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6824.jpg 1,3,630,582,1 100,454,138,509,0 163,502,204,535,0 212,503,234,538,0 308,540,325,568,0 528,508,604,573,0 247,521,286,552,0 48,414,62,439,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6834.jpg 1,1,641,282,1 62,387,273,581,0 419,383,447,408,0 505,353,535,370,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6835.jpg 149,1,641,501,1 18,304,246,497,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6852.jpg 291,4,615,335,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6857.jpg 12,216,56,263,0 81,271,203,373,0 224,379,270,418,0 289,392,448,469,0 572,242,614,298,0 315,1,500,393,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6870.jpg 239,304,273,377,0 88,6,641,405,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6874.jpg 1,105,471,449,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6877.jpg 359,291,415,427,0 437,428,493,462,0 506,542,564,594,0 1,398,229,641,0 260,1,485,427,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6899.jpg 368,411,456,527,0 460,318,612,641,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6901.jpg 389,429,415,464,0 429,421,447,439,0 259,410,291,448,0 42,2,483,535,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6904.jpg 334,300,341,348,0 146,3,641,602,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6908.jpg 22,329,237,394,0 516,435,555,486,0 325,410,350,443,0 594,458,619,503,0 136,1,536,452,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6910.jpg 160,361,197,436,0 128,394,155,444,0 217,296,413,435,0 496,419,641,503,0 575,541,609,604,0 9,10,641,393,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/694.jpg 473,52,611,252,0 619,128,688,389,0 350,158,460,278,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6940.jpg 168,355,191,410,0 186,138,480,513,0 406,520,516,641,0 496,274,573,434,0 627,451,641,611,0 569,568,586,611,0 516,487,563,550,0 571,507,586,546,0 1,1,507,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6945.jpg 2,1,375,639,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6976.jpg 2,535,283,600,0 324,552,403,586,0 450,522,534,574,0 602,502,641,530,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6983.jpg 1,170,309,462,0 1,43,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6985.jpg 477,319,580,463,0 442,330,468,392,0 367,439,390,494,0 442,422,467,461,0 215,503,242,540,0 33,554,59,605,0 148,534,173,565,0 403,438,429,467,0 462,3,641,414,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6998.jpg 225,381,268,430,0 5,6,641,405,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/6999.jpg 247,455,282,560,0 2,1,441,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7.jpg 1,32,640,562,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7002.jpg 116,411,230,641,0 215,236,337,375,0 389,4,522,350,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7005.jpg 50,193,154,269,0 158,257,320,338,0 253,334,378,437,0 147,415,223,473,0 1,1,455,288,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7019.jpg 230,189,276,399,0 187,7,279,329,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7022.jpg 309,134,469,437,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7026.jpg 220,273,262,322,0 77,1,641,517,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7036.jpg 400,292,464,344,0 4,3,641,472,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7076.jpg 105,593,203,627,0 223,602,248,624,0 385,606,470,641,0 516,576,608,641,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7079.jpg 109,213,641,641,0 1,2,641,602,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7085.jpg 4,528,176,624,0 185,421,374,556,0 351,358,484,425,0 492,302,579,355,0 1,339,18,363,0 34,328,73,360,0 223,338,275,367,0 117,340,193,363,0 93,294,384,352,0 88,21,563,349,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7132.jpg 3,507,49,637,0 56,468,130,641,0 146,2,433,559,0 453,439,506,546,0 533,350,641,493,0 1,1,641,491,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7135.jpg 383,579,396,629,0 566,376,579,393,0 1,1,624,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7146.jpg 201,337,345,392,0 350,283,452,340,0 161,355,185,381,0 84,366,101,382,0 1,1,477,421,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7147.jpg 189,401,284,501,0 375,345,403,409,0 1,5,641,461,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7165.jpg 8,367,258,641,0 306,265,428,561,0 580,320,641,482,0 1,3,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7171.jpg 330,178,477,270,0 3,512,28,575,0 93,380,641,579,0 54,100,638,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7191.jpg 186,378,239,425,0 284,464,313,511,0 22,1,641,502,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7200.jpg 95,189,462,583,0 421,347,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7208.jpg 17,307,56,377,0 129,3,333,206,0 88,329,130,416,0 356,340,393,420,0 446,155,522,256,0 569,289,629,413,0 543,415,603,462,0 333,177,385,278,0 445,391,488,436,0 228,225,274,325,0 281,272,303,360,0 62,430,154,488,0 212,395,293,523,0 74,516,253,563,0 298,446,398,523,0 414,561,449,623,0 267,528,374,592,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7210.jpg 312,299,354,342,0 1,1,641,353,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7219.jpg 339,417,641,531,0 11,205,641,406,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7234.jpg 2,354,25,387,0 30,301,85,359,0 155,326,186,371,0 194,324,248,370,0 1,3,348,493,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7247.jpg 382,162,417,247,0 1,1,641,641,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7263.jpg 289,178,633,596,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7279.jpg 133,261,398,445,0 1,158,641,500,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7289.jpg 105,526,226,577,0 401,582,437,615,0 571,336,641,403,0 440,574,525,605,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/73.jpg 65,340,159,473,0 179,334,207,415,0 245,269,306,399,0 352,276,383,362,0 413,127,447,324,0 446,268,475,370,0 574,250,640,374,0 87,1,640,361,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7301.jpg 109,378,153,409,0 312,337,353,360,0 3,8,617,455,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7314.jpg 318,195,483,339,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7318.jpg 2,419,267,582,0 319,301,605,531,0 1,1,471,401,1 379,350,641,532,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7336.jpg 40,346,87,443,0 478,19,538,291,0 533,316,601,550,0 355,531,510,612,0 4,1,248,363,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7354.jpg 130,245,189,424,0 226,8,482,453,0 559,143,641,350,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7377.jpg 133,109,514,597,0 1,5,641,566,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7388.jpg 3,292,294,505,0 410,433,641,510,0 452,608,551,641,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/7411.jpg 333,384,389,429,0 3,236,220,312,0 252,297,422,362,0 479,343,523,370,0 484,413,520,448,0 576,339,641,461,0 495,472,565,518,0 556,526,609,551,0 620,515,641,557,0 388,585,421,618,0 393,555,419,580,0 289,559,344,608,0 295,426,336,464,0 382,414,417,482,0 215,376,261,416,0 235,453,270,478,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/747.jpg 740,157,977,375,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/769.jpg 679,253,824,525,0 897,287,985,489,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/786.jpg 501,217,712,442,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/8.jpg 227,365,250,389,0 1,1,640,640,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/812.jpg 365,338,577,485,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/819.jpg 322,1,477,441,0 571,221,687,477,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/83.jpg 148,313,428,555,0 438,273,486,327,0 2,1,640,640,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/834.jpg 294,264,381,486,0 375,187,460,390,0 483,142,549,239,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/848.jpg 387,233,448,376,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/854.jpg 738,405,823,534,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/859.jpg 388,227,457,393,0 297,288,384,480,0 483,123,555,222,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/870.jpg 513,1,734,396,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/88.jpg 29,258,198,289,0 179,285,610,334,0 615,327,627,343,0 42,4,640,295,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/887.jpg 40,137,440,432,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/89.jpg 1,35,637,607,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/893.jpg 546,363,729,633,0 713,404,844,618,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/910.jpg 531,112,716,453,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/911.jpg 419,120,530,338,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/913.jpg 336,254,441,456,0 508,135,653,472,0 761,282,876,472,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/921.jpg 331,284,452,453,0 494,117,647,456,0 752,266,917,485,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/939.jpg 552,122,722,455,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/944.jpg 339,153,500,405,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/945.jpg 707,96,975,380,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/949.jpg 475,22,733,539,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/953.jpg 439,58,675,322,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/954.jpg 508,62,592,263,0 608,153,702,416,0 472,272,542,426,0 349,189,466,284,0 166,503,349,564,0
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/99.jpg 483,494,571,522,0 407,495,481,517,0 309,507,397,537,0 302,136,640,237,0 153,120,206,160,0 4,237,255,539,1 291,251,628,492,1 344,1,640,140,1
+D:\StudyTool\jupyter-projects\Mdoule\Fire-YOLO\VOCdevkit/VOC2007/JPEGImages/991.jpg 503,77,720,458,0

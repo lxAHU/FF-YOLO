@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>61a451d44e7d0dde1baef803e430ccbc1994a7fd0_595_397_c_jpg.rf.bda634d7234f2ecf25bbbf9c8b1b504a.jpg</filename>
+	<path>G:\个人待搜集标注\火灾\JPEGImages\61a451d44e7d0dde1baef803e430ccbc1994a7fd0_595_397_c_jpg.rf.bda634d7234f2ecf25bbbf9c8b1b504a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>17</ymin>
+			<xmax>640</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

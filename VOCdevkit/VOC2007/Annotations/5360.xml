@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>istockphoto-641599760-2048x2048_jpg.rf.4cd4185cd9def16dbd1c4cc7c6eafdec.jpg</filename>
+	<path>istockphoto-641599760-2048x2048_jpg.rf.4cd4185cd9def16dbd1c4cc7c6eafdec.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

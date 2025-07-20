@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1650684204_18-vsegda-pomnim-com-p-goryashchii-les-vid-sverkhu-foto-20_jpg.rf.6ba776d619d959ffb03d7678acc100d5.jpg</filename>
+	<path>G:\个人待搜集标注\火灾\JPEGImages\1650684204_18-vsegda-pomnim-com-p-goryashchii-les-vid-sverkhu-foto-20_jpg.rf.6ba776d619d959ffb03d7678acc100d5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>640</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>
